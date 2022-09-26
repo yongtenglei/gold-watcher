@@ -33,3 +33,5 @@ git clone https://github.com/yongtenglei/gold-watcher.git
 go mod tidy
 env DB_PATH=./sql.db go run .
 ```
+## Shot
+![image](https://tvax3.sinaimg.cn/large/006cK6rNgy1h6jy1zcf2gj30ll0fcahc.jpg)
